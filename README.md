@@ -1,0 +1,2 @@
+# NetStatusWatchDog
+iOS 网络监测，在苹果官方的Reachability基础上进行封装，快速获取当前网络状态，用block方式监听网络状态的变化
